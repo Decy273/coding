@@ -1,0 +1,59 @@
+
+body {
+    text-align: center;
+ background-image: url("https://cutewallpaper.org/21/pc-wallpaper-aesthetic/Pixel-Comfy-Aesthetic-Gif-Halloween-Gifart-Lo-Fi-.gif");
+ background-position: top;
+ background-size: cover;
+ background-blend-mode: hue;
+
+
+}
+
+h1 {
+    
+ color:#00ccff;
+ font-size: x-large;
+	-webkit-text-stroke: 2px rgb(255, 0, 221);
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: larger;
+ stroke: black;
+  }
+h3 {
+color:rgb(0, 247, 255);
+ 
+  
+  
+
+}
+label {
+
+    color:blueviolet
+}
+
+.table {
+    text-align: right;
+    color:#ff7f50
+}
+p {
+color: rgb(0, 247, 255);
+font-size: 28px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+outline-color: #00ffff;
+}
+
+.intro_paragraph {
+color:#3cb371;
+}
+#select_code {
+    color:rgb(0, 247, 255)
+}
+#know_more_paragraph {
+    color: #ff7f50;
+}
+
+#coding_on_laptop {
+    width: 80%;
+    height: 80%;
+    opacity: 1;
+    border: 5px solid rgb(204, 0, 255)
+}
